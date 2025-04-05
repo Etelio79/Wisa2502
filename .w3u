@@ -1,0 +1,45 @@
+{"name": "REPLAY TV",
+"author": "CATEGORÍAS",
+"url": "https://raw.githubusercontent.com/Etelio79/Wis25-02/refs/heads/main/.w3u",
+"image": "https://clubox.top/club/Imagenes/IMG_20.png",
+"groups": [
+
+{"name": "CINE & SERIES",
+"image": "https://img.freepik.com/vector-premium/banner-cine-cine_108855-11.jpg",
+"url": "https://clubox.top/club/W3U/cine.txt"},
+
+{"name": "ZONA DEPORTIVA",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3ZoTx6pNX2LC3qMdugERV9zW7g2NnlgpyhKXlnUnSQ&s",
+"url": "https://clubox.top/club/W3U/Zona_Deportiva.txt"},
+
+{"name": "DEPORTES MOVISTAR",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYZ3jVDjSPH3R7Ar78PGZtRSMzfZm06RLiaaw5t4brA&s",
+"url": "https://clubox.top/club/W3U/Movistar.txt"},
+
+{"name": "PLUTO TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq9BoBuo4j16aD5WguyoMWsRAKmZU6cD668A&usqp=CAU",
+"url": "https://clubox.top/club/W3U/Pluto_tv.txt"},
+
+{"name": "CANELA TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_6UA9L3K5qhiwETAPDlBNrvt51i1hiCli9w&usqp=CAU",
+"url": "https://clubox.top/club/W3U/Canela_tv.txt"},
+
+{"name": "RAKUTEN TV",
+"image": "https://i0.wp.com/thefutureoftheforce.com/wp-content/uploads/2023/04/Rakuten-TV-Header.jpg?fit=640%2C360&ssl=1",
+"url": "https://clubox.top/club/W3U/Rakuten_tv.txt"},
+
+{"name": "RUNTIME TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLQAf8Jkt9ahqwuE3wTnZlIVMr-6UCevBeQ&usqp=CAU",
+"url": "https://clubox.top/club/W3U/Runtime_tv.txt"},
+
+{"name": "ESPAÑA",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRGDOFTf3bpY6ICcu67GKHsRhYcegcIyeIw&usqp=CAU",
+"url": "https://raw.githubusercontent.com/Puerta33/Canela/refs/heads/main/.w3u"},
+
+{"name": "MEXICO",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRlWJ7RawjavqAtEP-Ykl3igyznVFrIFjD21g-5ToGBA&s",
+"url": "https://raw.githubusercontent.com/Kenai025/Mexico/refs/heads/main/.w3u"},
+
+{"name": "INFORMACIÓN IMPORTANTE",
+"image": "https://i.ibb.co/TPMqJ72/atencion.png",
+"url": "https://raw.githubusercontent.com/Etelio79/Informaci-n/refs/heads/main/.w3u"}]},
